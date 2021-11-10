@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ChhinaLaw/static/css/main.d4ea3834.chunk.css",
-    "main.js": "/ChhinaLaw/static/js/main.5e9b8a03.chunk.js",
-    "main.js.map": "/ChhinaLaw/static/js/main.5e9b8a03.chunk.js.map",
+    "main.js": "/ChhinaLaw/static/js/main.653752af.chunk.js",
+    "main.js.map": "/ChhinaLaw/static/js/main.653752af.chunk.js.map",
     "runtime-main.js": "/ChhinaLaw/static/js/runtime-main.d10d42b5.js",
     "runtime-main.js.map": "/ChhinaLaw/static/js/runtime-main.d10d42b5.js.map",
     "static/css/2.a75f5a2c.chunk.css": "/ChhinaLaw/static/css/2.a75f5a2c.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.a75f5a2c.chunk.css",
     "static/js/2.86ff54d8.chunk.js",
     "static/css/main.d4ea3834.chunk.css",
-    "static/js/main.5e9b8a03.chunk.js"
+    "static/js/main.653752af.chunk.js"
   ]
 }
