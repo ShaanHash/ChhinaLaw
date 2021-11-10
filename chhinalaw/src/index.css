@@ -1,0 +1,28 @@
+.blue-dark {
+  background-color: #2e3b5b !important;
+}
+
+.blue-light {
+  background-color: #3f517d !important;
+}
+
+.gold-dark {
+  background-color: #eac65a !important;
+}
+
+.gold-mid {
+  background-color: #f0d687 !important;
+}
+
+.gold-light {
+  background-color: #f6e5b4 !important;
+}
+
+.row {
+  transition: all 1s ease !important;
+}
+
+/* * {
+  outline: 1px solid red;
+}
+ */
