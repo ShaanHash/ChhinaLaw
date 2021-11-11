@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ChhinaLaw/static/css/main.2db6e94d.chunk.css",
-    "main.js": "/ChhinaLaw/static/js/main.ff161df7.chunk.js",
-    "main.js.map": "/ChhinaLaw/static/js/main.ff161df7.chunk.js.map",
+    "main.js": "/ChhinaLaw/static/js/main.0f9d510c.chunk.js",
+    "main.js.map": "/ChhinaLaw/static/js/main.0f9d510c.chunk.js.map",
     "runtime-main.js": "/ChhinaLaw/static/js/runtime-main.d10d42b5.js",
     "runtime-main.js.map": "/ChhinaLaw/static/js/runtime-main.d10d42b5.js.map",
     "static/css/2.a75f5a2c.chunk.css": "/ChhinaLaw/static/css/2.a75f5a2c.chunk.css",
@@ -15,17 +15,21 @@
     "static/media/balance.dda9aa54.png": "/ChhinaLaw/static/media/balance.dda9aa54.png",
     "static/media/cbar.dabdbe12.jpg": "/ChhinaLaw/static/media/cbar.dabdbe12.jpg",
     "static/media/city1-cropped.eb89ded9.jpg": "/ChhinaLaw/static/media/city1-cropped.eb89ded9.jpg",
+    "static/media/civil.acd72e18.jpg": "/ChhinaLaw/static/media/civil.acd72e18.jpg",
+    "static/media/commerce.1b573cbf.jpg": "/ChhinaLaw/static/media/commerce.1b573cbf.jpg",
+    "static/media/construct.311160d8.jpg": "/ChhinaLaw/static/media/construct.311160d8.jpg",
     "static/media/crane.d88e66b5.png": "/ChhinaLaw/static/media/crane.d88e66b5.png",
     "static/media/home.d05df937.png": "/ChhinaLaw/static/media/home.d05df937.png",
     "static/media/logo-cropped.aba098f6.png": "/ChhinaLaw/static/media/logo-cropped.aba098f6.png",
     "static/media/logo.92071349.jpg": "/ChhinaLaw/static/media/logo.92071349.jpg",
-    "static/media/people.2508adf6.png": "/ChhinaLaw/static/media/people.2508adf6.png"
+    "static/media/people.2508adf6.png": "/ChhinaLaw/static/media/people.2508adf6.png",
+    "static/media/realestate.bf8118a5.jpg": "/ChhinaLaw/static/media/realestate.bf8118a5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d10d42b5.js",
     "static/css/2.a75f5a2c.chunk.css",
     "static/js/2.86ff54d8.chunk.js",
     "static/css/main.2db6e94d.chunk.css",
-    "static/js/main.ff161df7.chunk.js"
+    "static/js/main.0f9d510c.chunk.js"
   ]
 }
