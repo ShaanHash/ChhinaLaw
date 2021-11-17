@@ -10,10 +10,10 @@ import scale from "./../Images/balance.png";
 class Special extends React.Component {
   render() {
     return (
-      <div className="row">
+      <div className="row py-2 ">
         <div className="col-12">
           <div className="row">
-            <h5 className="d-flex justify-content-center display-6">
+            <h5 className="d-flex justify-content-center fs-3 sp-text">
               Specializations
             </h5>
           </div>

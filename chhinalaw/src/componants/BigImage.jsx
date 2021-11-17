@@ -1,5 +1,5 @@
 import React from "react";
-import toronto from "./../Images/city2.jpg";
+import toronto from "./../Images/city1-cropped.jpg";
 
 class BigImage extends React.Component {
   render() {

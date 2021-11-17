@@ -9,7 +9,7 @@ class Header extends Component {
         <div className="col d-flex justify-content-center">
           <Logo />
         </div>
-        <div className="col d-flex align-content-center justify-content-end">
+        <div className="col d-flex align-content-center justify-content-center">
           <NavBar />
         </div>
       </div>

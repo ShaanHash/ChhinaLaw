@@ -4,7 +4,7 @@ class NavBar extends React.Component {
   render() {
     return (
       <nav className="navbar navbar-expand-lg navbar-light">
-        <div className="container-fluid d-flex justify-content-end">
+        <div className="container-fluid d-flex justify-content-end px-3">
           <button
             className="navbar-toggler"
             type="button"
@@ -33,10 +33,15 @@ class NavBar extends React.Component {
                   Services
                 </a>
               </li>
-              <li className="nav-item">
+              <li className="nav-item pe-2">
                 <a className="nav-link active" href="index.html">
                   Contact
                 </a>
+              </li>
+              <li className="nav-item d-flex align-items-center">
+                <div className="border-start border-secondary ps-3">
+                  647-646-400
+                </div>
               </li>
             </ul>
           </div>
