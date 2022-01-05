@@ -1,4 +1,5 @@
 import React from "react";
+import law from "./../Images/chhina.jpeg";
 
 class MiddleBio extends React.Component {
   render() {
@@ -7,9 +8,9 @@ class MiddleBio extends React.Component {
         <div className="col-xl-6 d-flex justify-content-center">
           <img
             className="mw-100 m-5 border border-5 shadow"
-            height="200"
+            height="auto"
             width="350"
-            src="https://via.placeholder.com/350x200"
+            src={law}
             alt=""
           ></img>
         </div>
